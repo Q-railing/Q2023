@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "configurators",
+  "info": {
+    "singularName": "configurator",
+    "pluralName": "configurators",
+    "displayName": "configurator"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "text1": {
+      "type": "text"
+    },
+    "filter1": {
+      "type": "string"
+    }
+  }
+}
